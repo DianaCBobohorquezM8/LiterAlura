@@ -24,10 +24,13 @@ Permite ingresar el título de un libro para consultar estadísticas de descarga
 
 🧑‍💻 Métodos de Consulta y Registro
 La aplicación cuenta con varios métodos para la gestión de libros y autores, incluyendo búsqueda por título, por nombre del autor, por idioma, y consulta de autores vivos en un determinado periodo.
+
 ✨ Contribuyendo
 ¡Las contribuciones son bienvenidas! Siéntete libre de abrir un issue o enviar un pull request.
+
 📄 Licencia
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+
 💬 Contacto
 Para cualquier consulta o comentario, por favor envia un mendaje  : www.linkedin.com/in/diana-c-bohorquez-m-bb70a2108
 
