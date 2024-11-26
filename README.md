@@ -1,4 +1,6 @@
 # 📚 LiterAlura - Challenge Java! 📚
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/40b10e53-7441-4210-89d7-af7439633e47">
+
 Bienvenido a **LiterAlura**, una aplicación para gestionar libros y autores, con la capacidad de consultar las estadísticas de descargas. Esta aplicación ha sido diseñada para ayudarte a encontrar, registrar y evaluar libros fácilmente.
 
 ## 📖 Funcionalidades
@@ -11,9 +13,15 @@ Bienvenido a **LiterAlura**, una aplicación para gestionar libros y autores, co
 -  📈 **Top 3 de libros más descargados**
 -  📊 **Estadísticas de descargas**
 ### 📋 Prerrequisitos
-Asegúrate de tener instalado lo siguiente: 
 - Java JDK 11 o superior
 - Maven 3.6.3 o superior
+## 🛠 Herramientas Utilizadas 
+- **Spring Boot**: Framework para construir aplicaciones Java de manera rápida y sencilla.
+- **Hibernate**: Framework ORM para mapear objetos Java a la base de datos relacional.
+- **Maven**: Herramienta de gestión y construcción de proyectos Java.
+- **Jackson**: Biblioteca para la serialización y deserialización de objetos JSON.
+- **PostgreSQL**: Sistema de gestión de bases de datos relacional utilizado para almacenar los datos.
+- **Gutendex API**: API utilizada para obtener datos sobre libros y autores desde el Proyecto Gutenberg.
 
 📜 Descripción de Métodos Clave
   
