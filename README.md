@@ -36,8 +36,6 @@ La aplicación cuenta con varios métodos para la gestión de libros y autores, 
 ✨ Contribuyendo
 ¡Las contribuciones son bienvenidas! Siéntete libre de abrir un issue o enviar un pull request.
 
-📄 Licencia
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
 
 💬 Contacto
 Para cualquier consulta o comentario, por favor envia un mendaje  : www.linkedin.com/in/diana-c-bohorquez-m-bb70a2108
